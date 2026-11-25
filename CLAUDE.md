@@ -21,3 +21,9 @@ Bộ dựng video, thumbnail, ảnh giá, bảng tính bằng Remotion (React). 
 - Danh sách mẫu có sẵn: `src/Root.tsx`. Mẫu Green Skyline: `src/compositions/GSL*.tsx`.
 - Phong cách tham khảo: `docs/reference-phong-cach-*.md`, bộ chữ động `src/components/TitleFX.tsx`.
 - Không commit mật khẩu, token, file khách hàng.
+
+## Chạy trên đám mây (claude.ai/code)
+- Chromium có sẵn ở `/opt/pw-browsers/chromium`, đã cấu hình tự dùng trong `remotion.config.ts`.
+- Video ngắn 1080p xuất được (thử 18/11: 10 giây video mất ~42 giây; thumbnail ~9 giây; bảng tính ~3 giây).
+- File thu âm, video gốc, ảnh lớn KHÔNG có trong repo → người dùng phải gửi vào `inbox/` (hoặc link Drive) trước khi dựng.
+- Trả kết quả: đọc (mở) ảnh/khung hình để người dùng xem ngay trong chat; file để người dùng tải về thì đẩy lên nhánh riêng `outputs/<tên-người>` hoặc Drive theo hướng dẫn của Minh Hoàng.
