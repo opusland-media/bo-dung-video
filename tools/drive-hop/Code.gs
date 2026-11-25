@@ -54,7 +54,6 @@ function doGet() {
 /**
  * POST JSON:
  *  {key, action:'start', name, mimeType, size}  → {ok, uploadUrl}  (Claude PUT file thẳng vào uploadUrl)
- *  {key, action:'link', fileId}                  → {ok, url}        (bật "ai có link đều xem", trả link)
  */
 function doPost(e) {
   var body;
@@ -83,10 +82,5 @@ function doPost(e) {
     return traVe_({ ok: true, uploadUrl: loc, folder: folder.getUrl() });
   }
 
-  if (body.action === 'link') {
-    var f = DriveApp.getFileById(body.fileId);
-    f.setSharing(DriveApp.Access.ANYONE_WITH_LINK, DriveApp.Permission.VIEW);
-    return traVe_({ ok: true, url: f.getUrl() });
-  }
   return traVe_({ ok: false, error: 'action không hợp lệ' });
 }

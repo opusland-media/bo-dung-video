@@ -14,8 +14,6 @@ for f in "$@"; do
   resp=$(curl -sSL -H 'Content-Type: application/json' --data "$req" "$DRIVE_HOP_URL")
   up=$(printf '%s' "$resp" | python3 -c 'import json,sys; d=json.load(sys.stdin); print(d["uploadUrl"]) if d.get("ok") else sys.exit("Lỗi hộp nhận: "+json.dumps(d,ensure_ascii=False))')
   out=$(curl -sS -X PUT -H "Content-Type: $mime" --upload-file "$f" "$up")
-  fid=$(printf '%s' "$out" | python3 -c 'import json,sys; print(json.load(sys.stdin)["id"])')
-  req2=$(python3 -c 'import json,sys; print(json.dumps({"key":sys.argv[1],"action":"link","fileId":sys.argv[2]}))' "$DRIVE_HOP_KEY" "$fid")
-  link=$(curl -sSL -H 'Content-Type: application/json' --data "$req2" "$DRIVE_HOP_URL" | python3 -c 'import json,sys; print(json.load(sys.stdin).get("url",""))')
+  link=$(printf '%s' "$out" | python3 -c 'import json,sys; d=json.load(sys.stdin); print(d.get("webViewLink") or d)')
   echo "$name → $link"
 done
