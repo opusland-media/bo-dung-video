@@ -25,5 +25,5 @@ Bộ dựng video, thumbnail, ảnh giá, bảng tính bằng Remotion (React). 
 ## Chạy trên đám mây (claude.ai/code)
 - Chromium có sẵn ở `/opt/pw-browsers/chromium`, đã cấu hình tự dùng trong `remotion.config.ts`.
 - Video ngắn 1080p xuất được (thử 25/11/2026: 10 giây video mất ~42 giây; thumbnail ~9 giây; bảng tính ~3 giây).
-- File thu âm, video gốc, ảnh lớn KHÔNG có trong repo → người dùng phải gửi vào `inbox/` (hoặc link Drive) trước khi dựng.
+- File thu âm, ảnh: người dùng đính kèm thẳng vào ô chat (nút +). File nằm ở `/root/.claude/uploads/<id>/<tên file>` → chép vào `inbox/` rồi dùng. Video quay quá nặng thì nhờ gửi link Drive.
 - Trả kết quả: đọc (mở) ảnh/khung hình để người dùng xem ngay trong chat; file để người dùng tải về thì đẩy lên nhánh riêng `outputs/<tên-người>` hoặc Drive theo hướng dẫn của Minh Hoàng.
