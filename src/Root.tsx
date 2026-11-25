@@ -47,6 +47,7 @@ import { GSLBangTinh2PN, GSLBangTinhUnitCheck, BT2PN_FRAMES } from "./compositio
 import { GSLMap3DVertical, MAP3D_FRAMES } from "./compositions/GSLMap3DVertical";
 import { GSLChinhSachMau, GSLCSToanBo, csFrames } from "./compositions/GSLCSToanBo";
 import { VOICE_WORDS, VOICE_END } from "./compositions/GSLCSVoice";
+import { GSLCachTT, GSL_CACHTT_FRAMES } from "./compositions/GSLCachTT";
 import { VIDEO } from "./design/tokens";
 
 /**
@@ -245,6 +246,7 @@ export const Root: React.FC = () => {
       <Composition id="BanGiao2PN" component={BanGiaoTour} durationInFrames={bangiaoFrames("2pn")} fps={30} width={3840} height={2160} defaultProps={{ unit: "2pn" }} />
       <Composition id="BanGiaoThumb" component={BanGiaoThumb} durationInFrames={1} fps={30} width={1920} height={1080} defaultProps={{ unit: "1pn" }} />
       <Composition id="BanGiaoCoverV" component={BanGiaoCoverV} durationInFrames={1} fps={30} width={1080} height={1920} defaultProps={{ unit: "1pn" }} />
+      <Composition id="GSLCachTT" component={GSLCachTT} durationInFrames={GSL_CACHTT_FRAMES} fps={30} width={1080} height={1920} defaultProps={{ safeCheck: false, sfx: true }} />
       <Composition id="GSLMapVertical" component={GSLMapVertical} durationInFrames={GSL_MAP_FRAMES} fps={30} width={1080} height={1920} />
       <Composition id="ReelThue7tr" component={ReelThue7tr} durationInFrames={REEL_THUE_FRAMES} fps={30} width={1080} height={1920} defaultProps={{ voice: "reel1/voice-tam.wav", safeCheck: false }} />
       <Composition id="GSLVayVertical" component={GSLVayVertical} durationInFrames={GSL_VAY_FRAMES} fps={30} width={1080} height={1920} />
