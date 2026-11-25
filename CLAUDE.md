@@ -26,4 +26,6 @@ Bộ dựng video, thumbnail, ảnh giá, bảng tính bằng Remotion (React). 
 - Chromium có sẵn ở `/opt/pw-browsers/chromium`, đã cấu hình tự dùng trong `remotion.config.ts`.
 - Video ngắn 1080p xuất được (thử 25/11/2026: 10 giây video mất ~42 giây; thumbnail ~9 giây; bảng tính ~3 giây).
 - File thu âm, ảnh: người dùng đính kèm thẳng vào ô chat (nút +). File nằm ở `/root/.claude/uploads/<id>/<tên file>` → chép vào `inbox/` rồi dùng. Video quay quá nặng thì nhờ gửi link Drive.
-- Trả kết quả: đọc (mở) ảnh/khung hình để người dùng xem ngay trong chat; file để người dùng tải về thì đẩy lên nhánh riêng `outputs/<tên-người>` hoặc Drive theo hướng dẫn của Minh Hoàng.
+- Tài nguyên nặng (video quay, B-roll): người dùng tải lên Google Drive CỦA HỌ, bật "Ai có link đều xem được", dán link vào chat → tải bằng `pip install gdown` rồi `gdown --fuzzy "<link>" -O inbox/` (thư mục: `gdown --folder`). Cần môi trường đã mở mạng `drive.google.com`, `drive.usercontent.google.com`.
+- Trả kết quả: dựng xong LUÔN chạy `tools/gui-drive.sh outputs/<file> ...` để gửi vào thư mục "Video thành phẩm" trên Drive của chính người dùng, rồi báo link. Đồng thời mở ảnh/khung hình để người dùng xem ngay trong chat. Không commit file đầu ra.
+- Nếu `gui-drive.sh` báo thiếu `DRIVE_HOP_URL`/`DRIVE_HOP_KEY`: người dùng chưa cài Hộp nhận file → hướng dẫn theo `tools/drive-hop/Code.gs` (cài 1 lần, ~5 phút). Không bao giờ in giá trị DRIVE_HOP_KEY ra chat.
