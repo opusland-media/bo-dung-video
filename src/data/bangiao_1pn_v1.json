@@ -1,0 +1,202 @@
+{
+ "tourFrames": 2097,
+ "zones": [
+  {
+   "at": 30,
+   "label": "Bếp & phòng ăn"
+  },
+  {
+   "at": 380,
+   "label": "Khu vực khác"
+  },
+  {
+   "at": 687,
+   "label": "Phòng làm việc"
+  },
+  {
+   "at": 1026,
+   "label": "Phòng khách"
+  },
+  {
+   "at": 1251,
+   "label": "Phòng ngủ"
+  }
+ ],
+ "callouts": [
+  {
+   "at": 78,
+   "title": "Tủ lạnh",
+   "sub": "Panasonic / Samsung hoặc tương đương",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 114,
+   "title": "Tủ bếp + tủ kính tay nâng Blum",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 162,
+   "title": "Chậu rửa 1 hộc Hafele",
+   "sub": "",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 198,
+   "title": "Kệ úp chén Hafele",
+   "sub": "Hoặc tương đương",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 240,
+   "title": "Bếp từ Panasonic",
+   "sub": "3 vùng nấu",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 270,
+   "title": "Máy hút mùi Panasonic",
+   "sub": "",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 306,
+   "title": "Bàn ăn + 4 ghế",
+   "sub": "Mặt đá nung kết, ghế bọc vải",
+   "tier": "goi",
+   "n": 2
+  },
+  {
+   "at": 342,
+   "title": "Tranh trang trí",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 409,
+   "title": "Máy giặt",
+   "sub": "Panasonic / Samsung hoặc tương đương",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 461,
+   "title": "Máy sấy",
+   "sub": "Không thuộc danh mục bàn giao",
+   "tier": "khong",
+   "n": 0
+  },
+  {
+   "at": 519,
+   "title": "Tủ giày",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 732,
+   "title": "Bàn đọc sách",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 780,
+   "title": "Tủ sách",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 840,
+   "title": "Tranh trang trí",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1047,
+   "title": "Sofa phòng khách",
+   "sub": "Bọc vải / da nhân tạo",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1077,
+   "title": "Bàn sofa",
+   "sub": "Mặt đá nung kết",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1113,
+   "title": "Tủ kệ TV + vách TV",
+   "sub": "Gỗ E1, mặt đá nung kết, chỉ trang trí",
+   "tier": "goi",
+   "n": 2
+  },
+  {
+   "at": 1149,
+   "title": "Tivi",
+   "sub": "Không thuộc danh mục bàn giao",
+   "tier": "khong",
+   "n": 0
+  },
+  {
+   "at": 1185,
+   "title": "Máy lạnh phòng khách",
+   "sub": "Daikin / Mitsubishi / Samsung / LG",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1284,
+   "title": "Giường ngủ 1m6 × 2m",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1332,
+   "title": "Nệm lò xo Sealy (Mỹ)",
+   "sub": "Avenue Pillow Top, dày 28 cm",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1392,
+   "title": "Máy lạnh phòng ngủ",
+   "sub": "Daikin / Mitsubishi / Samsung / LG",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1464,
+   "title": "Tủ áo kịch trần",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1560,
+   "title": "Bàn trang điểm + gương + ghế",
+   "sub": "",
+   "tier": "goi",
+   "n": 3
+  },
+  {
+   "at": 1662,
+   "title": "Tranh trang trí",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+out/
+outputs/
+inbox/
+.whisper-venv/
+.voiceover-cache/
+.DS_Store
+*.log

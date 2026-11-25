@@ -1,0 +1,246 @@
+{
+ "tourFrames": 3429,
+ "zones": [
+  {
+   "at": 18,
+   "label": "Bếp & phòng ăn"
+  },
+  {
+   "at": 444,
+   "label": "Khu vực khác"
+  },
+  {
+   "at": 594,
+   "label": "Phòng khách"
+  },
+  {
+   "at": 792,
+   "label": "Phòng tắm chung"
+  },
+  {
+   "at": 1019,
+   "label": "Phòng ngủ 2"
+  },
+  {
+   "at": 1544,
+   "label": "Phòng ngủ master"
+  },
+  {
+   "at": 2307,
+   "label": "Phòng tắm master"
+  },
+  {
+   "at": 2568,
+   "label": "Phòng khách"
+  },
+  {
+   "at": 2829,
+   "label": "Ban công · view nội khu"
+  }
+ ],
+ "callouts": [
+  {
+   "at": 45,
+   "title": "Tủ bếp + tủ kính tay nâng Blum",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 96,
+   "title": "Chậu rửa 1 hộc Hafele",
+   "sub": "",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 132,
+   "title": "Kệ úp chén Hafele",
+   "sub": "Hoặc tương đương",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 192,
+   "title": "Tủ lạnh",
+   "sub": "Panasonic / Samsung hoặc tương đương",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 246,
+   "title": "Bếp từ Panasonic",
+   "sub": "3 vùng nấu",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 282,
+   "title": "Máy hút mùi Panasonic",
+   "sub": "",
+   "tier": "coban",
+   "n": 1
+  },
+  {
+   "at": 360,
+   "title": "Bàn ăn + 4 ghế",
+   "sub": "Mặt đá nung kết, ghế bọc vải",
+   "tier": "goi",
+   "n": 2
+  },
+  {
+   "at": 402,
+   "title": "Tranh trang trí",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 456,
+   "title": "Máy giặt",
+   "sub": "Panasonic / Samsung hoặc tương đương",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 510,
+   "title": "Tủ giày",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 615,
+   "title": "Sofa phòng khách",
+   "sub": "Bọc vải / da nhân tạo",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 651,
+   "title": "Bàn sofa",
+   "sub": "Mặt đá nung kết",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 687,
+   "title": "Tủ kệ TV + vách TV",
+   "sub": "Gỗ E1, mặt đá nung kết, chỉ trang trí",
+   "tier": "goi",
+   "n": 2
+  },
+  {
+   "at": 729,
+   "title": "Tivi",
+   "sub": "Không thuộc danh mục bàn giao",
+   "tier": "khong",
+   "n": 0
+  },
+  {
+   "at": 1067,
+   "title": "Giường ngủ 1m4 × 2m",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1127,
+   "title": "Nệm lò xo Sealy (Mỹ)",
+   "sub": "Avenue Pillow Top, dày 28 cm",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1199,
+   "title": "Tranh trang trí",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1319,
+   "title": "Bàn học",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1385,
+   "title": "Tủ áo kịch trần",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1445,
+   "title": "Máy lạnh phòng ngủ 2",
+   "sub": "Daikin / Mitsubishi / Samsung / LG",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1592,
+   "title": "Giường ngủ 1m6 × 2m",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1652,
+   "title": "Nệm lò xo Sealy (Mỹ)",
+   "sub": "Avenue Pillow Top, dày 28 cm",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1724,
+   "title": "Bàn làm việc",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1832,
+   "title": "Tranh trang trí",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1916,
+   "title": "Tủ áo kịch trần",
+   "sub": "Gỗ công nghiệp E1, mặt laminate",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 1982,
+   "title": "Máy lạnh phòng ngủ master",
+   "sub": "Daikin / Mitsubishi / Samsung / LG",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 2601,
+   "title": "Máy lạnh phòng khách",
+   "sub": "Daikin / Mitsubishi / Samsung / LG",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 2667,
+   "title": "Tranh trang trí",
+   "sub": "",
+   "tier": "goi",
+   "n": 1
+  },
+  {
+   "at": 2964,
+   "title": "View trực diện hồ bơi nội khu",
+   "sub": "Cảnh quan và cầu nối giữa các tháp",
+   "tier": "info",
+   "n": 0
+  }
+ ]
+}

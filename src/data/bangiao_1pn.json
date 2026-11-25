@@ -1,0 +1,538 @@
+{
+ "tourFrames": 3054,
+ "zones": [
+  {
+   "at": 30,
+   "label": "Bếp & phòng ăn"
+  },
+  {
+   "at": 686,
+   "label": "Khu vực khác"
+  },
+  {
+   "at": 1086,
+   "label": "Phòng làm việc"
+  },
+  {
+   "at": 1545,
+   "label": "Phòng khách"
+  },
+  {
+   "at": 1929,
+   "label": "Phòng ngủ"
+  }
+ ],
+ "stops": [
+  {
+   "at": 120,
+   "dur": 93,
+   "img": "images/bangiao/stops/1pn_s1.jpg",
+   "items": [
+    {
+     "title": "Tủ lạnh",
+     "sub": "Panasonic / Samsung hoặc tương đương",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      311,
+      115,
+      677,
+      1077
+     ],
+     "mask": "images/bangiao/stops/1pn_s1_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s1_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s1_0_cut.png",
+     "cutBox": [
+      306.0,
+      110.0,
+      683.0,
+      1080.0
+     ]
+    },
+    {
+     "title": "Tủ bếp + tủ kính tay nâng Blum",
+     "sub": "Gỗ công nghiệp E1, mặt laminate",
+     "tier": "coban",
+     "n": 1,
+     "bbox": [
+      642,
+      0,
+      1058,
+      1047
+     ],
+     "mask": "images/bangiao/stops/1pn_s1_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s1_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s1_1_cut.png",
+     "cutBox": [
+      637.0,
+      0.0,
+      1064.0,
+      1053.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 348,
+   "dur": 120,
+   "img": "images/bangiao/stops/1pn_s2.jpg",
+   "items": [
+    {
+     "title": "Chậu rửa 1 hộc Hafele",
+     "sub": "",
+     "tier": "coban",
+     "n": 1,
+     "bbox": [
+      93,
+      459,
+      621,
+      940
+     ],
+     "mask": "images/bangiao/stops/1pn_s2_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s2_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s2_0_cut.png",
+     "cutBox": [
+      88.0,
+      454.0,
+      627.0,
+      946.0
+     ]
+    },
+    {
+     "title": "Bếp từ Panasonic",
+     "sub": "3 vùng nấu",
+     "tier": "coban",
+     "n": 1,
+     "bbox": [
+      790,
+      605,
+      1106,
+      675
+     ],
+     "mask": "images/bangiao/stops/1pn_s2_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s2_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s2_1_cut.png",
+     "cutBox": [
+      785.0,
+      600.0,
+      1112.0,
+      681.0
+     ]
+    },
+    {
+     "title": "Máy hút mùi Panasonic",
+     "sub": "",
+     "tier": "coban",
+     "n": 1,
+     "bbox": [
+      774,
+      311,
+      1109,
+      380
+     ],
+     "mask": "images/bangiao/stops/1pn_s2_2_mask.png",
+     "glow": "images/bangiao/stops/1pn_s2_2_glow.png",
+     "cut": "images/bangiao/stops/1pn_s2_2_cut.png",
+     "cutBox": [
+      769.0,
+      306.0,
+      1115.0,
+      386.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 558,
+   "dur": 93,
+   "img": "images/bangiao/stops/1pn_s3.jpg",
+   "items": [
+    {
+     "title": "Bàn ăn + 4 ghế",
+     "sub": "Mặt đá nung kết, ghế bọc vải",
+     "tier": "goi",
+     "n": 2,
+     "bbox": [
+      744,
+      608,
+      1173,
+      1004
+     ],
+     "mask": "images/bangiao/stops/1pn_s3_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s3_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s3_0_cut.png",
+     "cutBox": [
+      739.0,
+      603.0,
+      1179.0,
+      1010.0
+     ]
+    },
+    {
+     "title": "Tranh trang trí",
+     "sub": "",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      678,
+      188,
+      783,
+      500
+     ],
+     "mask": "images/bangiao/stops/1pn_s3_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s3_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s3_1_cut.png",
+     "cutBox": [
+      673.0,
+      183.0,
+      789.0,
+      506.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 729,
+   "dur": 93,
+   "img": "images/bangiao/stops/1pn_s4.jpg",
+   "items": [
+    {
+     "title": "Máy giặt",
+     "sub": "Panasonic / Samsung hoặc tương đương",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      1109,
+      696,
+      1498,
+      1079
+     ],
+     "mask": "images/bangiao/stops/1pn_s4_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s4_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s4_0_cut.png",
+     "cutBox": [
+      1104.0,
+      691.0,
+      1504.0,
+      1080.0
+     ]
+    },
+    {
+     "title": "Máy sấy",
+     "sub": "Không thuộc danh mục bàn giao",
+     "tier": "khong",
+     "n": 0,
+     "bbox": [
+      1109,
+      123,
+      1495,
+      654
+     ],
+     "mask": "images/bangiao/stops/1pn_s4_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s4_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s4_1_cut.png",
+     "cutBox": [
+      1104.0,
+      118.0,
+      1501.0,
+      660.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 1191,
+   "dur": 120,
+   "img": "images/bangiao/stops/1pn_s5.jpg",
+   "items": [
+    {
+     "title": "Bàn đọc sách",
+     "sub": "Gỗ công nghiệp E1, mặt laminate",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      579,
+      611,
+      1156,
+      835
+     ],
+     "mask": "images/bangiao/stops/1pn_s5_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s5_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s5_0_cut.png",
+     "cutBox": [
+      574.0,
+      606.0,
+      1162.0,
+      841.0
+     ]
+    },
+    {
+     "title": "Tủ sách",
+     "sub": "Gỗ công nghiệp E1, mặt laminate",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      1139,
+      0,
+      1283,
+      768
+     ],
+     "mask": "images/bangiao/stops/1pn_s5_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s5_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s5_1_cut.png",
+     "cutBox": [
+      1134.0,
+      0.0,
+      1289.0,
+      774.0
+     ]
+    },
+    {
+     "title": "Tranh trang trí",
+     "sub": "",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      698,
+      216,
+      882,
+      476
+     ],
+     "mask": "images/bangiao/stops/1pn_s5_2_mask.png",
+     "glow": "images/bangiao/stops/1pn_s5_2_glow.png",
+     "cut": "images/bangiao/stops/1pn_s5_2_cut.png",
+     "cutBox": [
+      693.0,
+      211.0,
+      888.0,
+      482.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 1626,
+   "dur": 66,
+   "img": "images/bangiao/stops/1pn_s6.jpg",
+   "items": [
+    {
+     "title": "Tivi",
+     "sub": "Không thuộc danh mục bàn giao",
+     "tier": "khong",
+     "n": 0,
+     "bbox": [
+      479,
+      372,
+      584,
+      559
+     ],
+     "mask": "images/bangiao/stops/1pn_s6_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s6_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s6_0_cut.png",
+     "cutBox": [
+      474.0,
+      367.0,
+      590.0,
+      565.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 1767,
+   "dur": 93,
+   "img": "images/bangiao/stops/1pn_s7.jpg",
+   "items": [
+    {
+     "title": "Sofa phòng khách",
+     "sub": "Bọc vải / da nhân tạo",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      531,
+      649,
+      1089,
+      1077
+     ],
+     "mask": "images/bangiao/stops/1pn_s7_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s7_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s7_0_cut.png",
+     "cutBox": [
+      526.0,
+      644.0,
+      1095.0,
+      1080.0
+     ]
+    },
+    {
+     "title": "Bàn sofa",
+     "sub": "Mặt đá nung kết",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      58,
+      793,
+      459,
+      1079
+     ],
+     "mask": "images/bangiao/stops/1pn_s7_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s7_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s7_1_cut.png",
+     "cutBox": [
+      53.0,
+      788.0,
+      465.0,
+      1080.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 2070,
+   "dur": 120,
+   "img": "images/bangiao/stops/1pn_s8.jpg",
+   "items": [
+    {
+     "title": "Máy lạnh phòng ngủ",
+     "sub": "Daikin / Mitsubishi / Samsung / LG",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      1164,
+      104,
+      1389,
+      282
+     ],
+     "mask": "images/bangiao/stops/1pn_s8_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s8_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s8_0_cut.png",
+     "cutBox": [
+      1159.0,
+      99.0,
+      1395.0,
+      288.0
+     ]
+    },
+    {
+     "title": "Máy lạnh phòng khách",
+     "sub": "Daikin / Mitsubishi / Samsung / LG",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      1539,
+      6,
+      1840,
+      218
+     ],
+     "mask": "images/bangiao/stops/1pn_s8_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s8_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s8_1_cut.png",
+     "cutBox": [
+      1534.0,
+      1.0,
+      1846.0,
+      224.0
+     ]
+    },
+    {
+     "title": "Tủ áo kịch trần",
+     "sub": "Gỗ công nghiệp E1, mặt laminate",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      907,
+      175,
+      1204,
+      909
+     ],
+     "mask": "images/bangiao/stops/1pn_s8_2_mask.png",
+     "glow": "images/bangiao/stops/1pn_s8_2_glow.png",
+     "cut": "images/bangiao/stops/1pn_s8_2_cut.png",
+     "cutBox": [
+      902.0,
+      170.0,
+      1210.0,
+      915.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 2295,
+   "dur": 93,
+   "img": "images/bangiao/stops/1pn_s9.jpg",
+   "items": [
+    {
+     "title": "Giường 1m6 + nệm Sealy (Mỹ)",
+     "sub": "Nệm lò xo Avenue Pillow Top, dày 28 cm",
+     "tier": "goi",
+     "n": 2,
+     "bbox": [
+      0,
+      626,
+      1082,
+      1079
+     ],
+     "mask": "images/bangiao/stops/1pn_s9_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s9_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s9_0_cut.png",
+     "cutBox": [
+      0.0,
+      621.0,
+      1088.0,
+      1080.0
+     ]
+    },
+    {
+     "title": "Tranh trang trí",
+     "sub": "",
+     "tier": "goi",
+     "n": 1,
+     "bbox": [
+      121,
+      221,
+      541,
+      505
+     ],
+     "mask": "images/bangiao/stops/1pn_s9_1_mask.png",
+     "glow": "images/bangiao/stops/1pn_s9_1_glow.png",
+     "cut": "images/bangiao/stops/1pn_s9_1_cut.png",
+     "cutBox": [
+      116.0,
+      216.0,
+      547.0,
+      511.0
+     ]
+    }
+   ]
+  },
+  {
+   "at": 2493,
+   "dur": 66,
+   "img": "images/bangiao/stops/1pn_s10.jpg",
+   "items": [
+    {
+     "title": "Bàn trang điểm + gương + ghế",
+     "sub": "",
+     "tier": "goi",
+     "n": 3,
+     "bbox": [
+      387,
+      413,
+      761,
+      1079
+     ],
+     "mask": "images/bangiao/stops/1pn_s10_0_mask.png",
+     "glow": "images/bangiao/stops/1pn_s10_0_glow.png",
+     "cut": "images/bangiao/stops/1pn_s10_0_cut.png",
+     "cutBox": [
+      382.0,
+      408.0,
+      767.0,
+      1080.0
+     ]
+    }
+   ]
+  }
+ ]
+}

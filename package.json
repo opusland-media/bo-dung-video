@@ -1,0 +1,31 @@
+{
+  "name": "bds-video-engine",
+  "version": "1.0.0",
+  "description": "Motion graphics engine cho nội dung BĐS — batdongsan123.com",
+  "scripts": {
+    "dev": "remotion studio",
+    "preview": "remotion studio",
+    "render": "remotion render",
+    "build": "remotion bundle"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.488",
+    "@remotion/google-fonts": "4.0.488",
+    "@remotion/media-utils": "4.0.488",
+    "@remotion/paths": "4.0.488",
+    "@remotion/shapes": "4.0.488",
+    "@remotion/transitions": "4.0.488",
+    "remotion": "4.0.488",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.4.0"
+  },
+  "remotion": {
+    "entryPoint": "src/index.ts"
+  }
+}

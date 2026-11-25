@@ -1,0 +1,67 @@
+{
+ "scenes": {
+  "unit": {
+   "voiceStart": 0.0,
+   "voiceEnd": 7.7,
+   "beats": {
+    "zoom": 1.55,
+    "hl": 1.95,
+    "layout": 5.25
+   }
+  },
+  "nhanh": {
+   "voiceStart": 9.5,
+   "voiceEnd": 28.563,
+   "beats": {
+    "price": 2.0,
+    "r1": 5.4,
+    "r2": 9.0,
+    "r3": 12.35,
+    "r4": 16.4
+   }
+  },
+  "chuan": {
+   "voiceStart": 29.113,
+   "voiceEnd": 46.47,
+   "beats": {
+    "price": 2.3,
+    "r1": 5.444,
+    "r2": 9.044,
+    "r3": 13.782,
+    "badge": 16.007
+   }
+  },
+  "vay": {
+   "voiceStart": 47.02,
+   "voiceEnd": 77.133,
+   "beats": {
+    "price": 1.85,
+    "r1": 4.35,
+    "r2": 9.121,
+    "r3": 15.133,
+    "q": 17.517,
+    "calm": 20.963,
+    "c1": 23.713,
+    "c2": 25.763
+   }
+  },
+  "tong": {
+   "voiceStart": 77.683,
+   "voiceEnd": 85.433,
+   "beats": {
+    "cards": 0.35,
+    "badge": 3.8
+   }
+  },
+  "cta": {
+   "voiceStart": 85.983,
+   "voiceEnd": 92.783,
+   "beats": {
+    "chips": 0.4,
+    "cta": 3.25,
+    "sub": 4.85
+   }
+  }
+ },
+ "voiceTotal": 95.383
+}

@@ -1,0 +1,82 @@
+{
+  "videos": {
+    "five-mistakes": {
+      "output": "public/audio/five-mistakes.mp3",
+      "totalDuration": 41.09,
+      "beats": [
+        {
+          "id": "hook",
+          "startTime": 0,
+          "endTime": 4.0,
+          "text": "80% người mua nhà lần đầu ở Việt Nam mất tiền vì bỏ qua bước này"
+        },
+        {
+          "id": "problem",
+          "startTime": 4.0,
+          "endTime": 7.2,
+          "text": "Vì thiếu kinh nghiệm, dễ dính pháp lý mập mờ, vượt ngân sách, hoặc chọn nhầm vị trí không có tiềm năng"
+        },
+        {
+          "id": "tip-1",
+          "startTime": 7.2,
+          "endTime": 13.4,
+          "text": "Một: Luôn kiểm tra sổ đỏ, sổ hồng chính chủ trước khi đặt cọc, đối chiếu tên trên sổ với căn cước công dân người bán"
+        },
+        {
+          "id": "tip-2",
+          "startTime": 13.4,
+          "endTime": 17.1,
+          "text": "Hai: Tính tỷ lệ nợ trên thu nhập, khoản trả góp không nên vượt quá 40% thu nhập hàng tháng"
+        },
+        {
+          "id": "tip-3",
+          "startTime": 17.1,
+          "endTime": 22.5,
+          "text": "Ba: Khảo sát quy hoạch khu vực tại phòng tài nguyên môi trường quận, tránh mua nhầm đất quy hoạch treo"
+        },
+        {
+          "id": "tip-4",
+          "startTime": 22.5,
+          "endTime": 28.1,
+          "text": "Bốn: So sánh giá ít nhất 3 căn cùng khu vực, cùng diện tích trước khi quyết định"
+        },
+        {
+          "id": "tip-5",
+          "startTime": 28.1,
+          "endTime": 33.4,
+          "text": "Năm: Đọc kỹ hợp đồng đặt cọc, đặc biệt điều khoản phạt nếu hủy giao dịch"
+        }
+      ]
+    },
+    "habitat-amenities": {
+      "output": "public/audio/habitat-amenities.mp3",
+      "totalDuration": 63,
+      "beats": [
+        {
+          "id": "hook",
+          "startTime": 0,
+          "endTime": 7,
+          "text": "Nói về TIỆN ÍCH, The Habitat Giai đoạn 3 thực sự định nghĩa lại khái niệm Resort tại gia. Trải nghiệm sống của cư dân được nâng tầm với những đặc quyền vô cùng đắt giá."
+        },
+        {
+          "id": "pool-gym",
+          "startTime": 7,
+          "endTime": 27,
+          "text": "Buổi chiều mát trời, anh chị có thể thả mình dưới làn nước mát của hồ bơi vô cực dài đến 50m chuẩn Olympic, hoặc rèn luyện sức khỏe tại phòng gym hiện đại với đầy đủ trang thiết bị chuẩn quốc tế."
+        },
+        {
+          "id": "park",
+          "startTime": 27,
+          "endTime": 42,
+          "text": "Ngay dưới chân tòa nhà là công viên cây xanh nhiệt đới, nơi cực kỳ lý tưởng để dạo bộ hay thư giãn cùng gia đình sau một ngày làm việc mệt mỏi."
+        },
+        {
+          "id": "security",
+          "startTime": 42,
+          "endTime": 63,
+          "text": "Và một điểm đặc biệt giúp The Habitat luôn là lựa chọn hàng đầu của các chuyên gia nước ngoài chính là hệ thống an ninh 3 lớp cực kỳ nghiêm ngặt, hoạt động 24 trên 7. Sự an toàn, riêng tư và yên tĩnh của anh chị luôn được đặt lên hàng đầu."
+        }
+      ]
+    }
+  }
+}

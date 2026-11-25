@@ -1,0 +1,204 @@
+{
+ "estimated": true,
+ "total": 82.78,
+ "sents": {
+  "s1": {
+   "text": "Đầu tiên là ưu đãi tân gia, mình được chọn 1 trong 4.",
+   "start": 0.0,
+   "end": 3.73,
+   "beats": {
+    "chon": 2.48
+   }
+  },
+  "s2": {
+   "text": "Căn 1PN+ và 2PN tháp Skyline Central được chiết khấu 6%.",
+   "start": 4.12,
+   "end": 8.12,
+   "beats": {
+    "pct": 2.75
+   }
+  },
+  "s3": {
+   "text": "Kèm theo gói full nội thất, dọn vào ở luôn.",
+   "start": 8.53,
+   "end": 11.5,
+   "beats": {
+    "don": 1.73
+   }
+  },
+  "s4": {
+   "text": "Phòng khách có sofa, kệ tivi, máy lạnh.",
+   "start": 11.9,
+   "end": 14.6,
+   "beats": {
+    "i0": 0.75,
+    "i1": 1.23,
+    "i2": 1.95
+   }
+  },
+  "s5": {
+   "text": "Bếp có tủ lạnh, bếp từ, bàn ăn 4 ghế.",
+   "start": 15.0,
+   "end": 18.2,
+   "beats": {
+    "i0": 0.5,
+    "i1": 1.23,
+    "i2": 1.95
+   }
+  },
+  "s6": {
+   "text": "Phòng ngủ có giường, nệm, tủ áo, máy lạnh.",
+   "start": 18.6,
+   "end": 21.78,
+   "beats": {
+    "i0": 0.75,
+    "i1": 1.23,
+    "i2": 1.7,
+    "i3": 2.43
+   }
+  },
+  "s7": {
+   "text": "Thêm máy giặt và tủ giày nữa nha anh chị.",
+   "start": 22.18,
+   "end": 24.93,
+   "beats": {
+    "i0": 0.25,
+    "i1": 1.0
+   }
+  },
+  "s8": {
+   "text": "Căn 2PN+ và 3PN tháp này thì chiết khấu 7%.",
+   "start": 25.32,
+   "end": 29.07,
+   "beats": {
+    "pct": 2.5
+   }
+  },
+  "s9": {
+   "text": "Tặng tủ lạnh, máy giặt và máy sấy.",
+   "start": 29.48,
+   "end": 31.95,
+   "beats": {
+    "i0": 0.25,
+    "i1": 1.23,
+    "i2": 1.98
+   }
+  },
+  "s10": {
+   "text": "Kèm máy lạnh cho tất cả các phòng.",
+   "start": 32.35,
+   "end": 34.6,
+   "beats": {
+    "all": 1.0
+   }
+  },
+  "s11": {
+   "text": "Những căn shop, Deluxe và Penthouse được 7%.",
+   "start": 35.0,
+   "end": 37.73,
+   "beats": {
+    "pct": 1.73
+   }
+  },
+  "s12": {
+   "text": "Các căn còn lại thì chiết khấu 8%.",
+   "start": 38.12,
+   "end": 40.62,
+   "beats": {
+    "pct": 1.25
+   }
+  },
+  "s13": {
+   "text": "Ngoài ra còn hai khoản cộng thêm.",
+   "start": 41.42,
+   "end": 43.42,
+   "beats": {}
+  },
+  "s14": {
+   "text": "Đóng đủ 10% trong 72 giờ, được thêm 1%.",
+   "start": 43.82,
+   "end": 47.8,
+   "beats": {
+    "plus": 2.73
+   }
+  },
+  "s15": {
+   "text": "Mua cùng lúc 2 căn, thêm 1%.",
+   "start": 48.2,
+   "end": 50.67,
+   "beats": {
+    "plus": 1.48
+   }
+  },
+  "s16": {
+   "text": "Từ 3 căn trở lên, thì thêm 1,5%.",
+   "start": 51.07,
+   "end": 54.3,
+   "beats": {
+    "plus": 1.73
+   }
+  },
+  "s17": {
+   "text": "Phần chiết khấu lớn nhất nằm ở cách thanh toán.",
+   "start": 55.1,
+   "end": 57.85,
+   "beats": {}
+  },
+  "s18": {
+   "text": "Thanh toán nhanh được thêm 9%.",
+   "start": 58.25,
+   "end": 60.25,
+   "beats": {
+    "pct": 0.75
+   }
+  },
+  "s19": {
+   "text": "Thanh toán chuẩn được thêm 3%.",
+   "start": 60.65,
+   "end": 62.65,
+   "beats": {
+    "pct": 0.75
+   }
+  },
+  "s20": {
+   "text": "Vay ngân hàng thì không có chiết khấu này.",
+   "start": 63.05,
+   "end": 65.55,
+   "beats": {
+    "no": 1.0
+   }
+  },
+  "s21": {
+   "text": "Bù lại, mình chỉ đóng 10% tới lúc nhận nhà.",
+   "start": 65.95,
+   "end": 69.42,
+   "beats": {
+    "pct": 1.23
+   }
+  },
+  "s22": {
+   "text": "Vay 70% được hỗ trợ lãi 0% trong 12 tháng.",
+   "start": 69.82,
+   "end": 74.07,
+   "beats": {
+    "rate": 2.0
+   }
+  },
+  "s23": {
+   "text": "Hoặc cố định 5,5% trong 24 tháng.",
+   "start": 74.47,
+   "end": 77.72,
+   "beats": {
+    "rate": 0.25
+   }
+  },
+  "s24": {
+   "text": "Còn vay 50% thì lãi 0% tối đa 18 tháng.",
+   "start": 78.12,
+   "end": 82.38,
+   "beats": {
+    "rate": 1.5
+   }
+  }
+ }
+}
